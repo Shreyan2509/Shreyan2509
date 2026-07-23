@@ -46,7 +46,7 @@ fun_fact: "I debug my code by talking to it (it doesn't answer, but it helps)"
 - 🌱 Currently leveling up in **Machine Learning** and **Advanced Data Structures**
 - 🤝 Open to collaborating on AI/ML projects and algorithm challenges
 - ⚡ Fun fact: I enjoy breaking down complex problems into simple, elegant solutions
-- 📫 Reach me at **YOUR_EMAIL@example.com**
+- 📫 Reach me at **shreyanofficial25@gmail.com**
 
 > Replace the yaml block, bullet points, and fun fact with your real details — this is the section people read first.
 
